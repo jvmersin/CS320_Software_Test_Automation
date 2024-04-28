@@ -1,1 +1,10 @@
 # CS320_Software_Test_Automation
+
+- How can I ensure that my code, program, or software is functional and secure?
+As someone who has been developing solo for 10 years now, the best way I have been  able to make sure my code, program, and software is both functional and secure has been through many hours of research. Paired with many unit tests and many hours of both integration and systems testing. I personally rely on the static testing of IntelliJ to help my indentify spelling mistakes and other syntax errors early. After every few lines of code or every function I complete I write a unit test to test that the block runs as expected. Once I have developed and abstracted a handful of methods I will move to integration testing on those pieces to make sure they are talking to each other correctly. After moving through these steps I will also do some systems testing to make sure the entire system is able to run and that nothing along the way has broken the system. During the systems test I will also test some logic to make sure the integration tests are still succeeding as well.
+
+- How do I interpret user needs and incorporate them into a program?
+I interpret user needs through research typically surveys or interviews and user personas. I then translate those needs into features by prioritizing and brainstorming solutions. Finally, I design and test prototypes with real users to iterate and ensure my program meets their needs.
+
+- How do I approach designing software?
+Software design starts with understanding user needs. Research and user personas help to identify their problems and goals. From there, I translate those needs into features by prioritizing the most critical ones. I always aim to build a user-friendly interface and prioritize features that solve user problems. Finally, I iterate on my design through prototyping, automation, and user testing to ensure it truly meets their needs.
